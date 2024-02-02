@@ -8,4 +8,4 @@ npx playwright test
 ```
 
 
-You can refer to the [blog post](https://blog.qafana.com/i/hosting-playwright-report-on-cloudflare-page/) for more details.
+You can refer to the [blog post](https://blog.qafana.com/i/hosting-playwright-report-on-cloudflare-pages-gDKsn1dEiz0/) for more details.
